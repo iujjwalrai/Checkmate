@@ -1,7 +1,12 @@
+## **Team Name**: Checkmate
+
+**Team Members**:
+- Happy Lakhotia, Yash Agarwal , Ujjwal Rai , Krishna Kant Kumar , Ankit Chaurasiya
+
 # Ayurvision
 
 ## Overview
-HealthAnalytics is an AI-powered health analysis platform that bridges modern technology with traditional Ayurvedic wisdom. This repository provides a complete workflow for:
+Ayurvision is an AI-powered health analysis platform that bridges modern technology with traditional Ayurvedic wisdom. This repository provides a complete workflow for:
 
 1. User login and sign-up.
 2. Dashboard for initiating health analysis.
@@ -39,11 +44,11 @@ HealthAnalytics is an AI-powered health analysis platform that bridges modern te
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/HealthAnalytics.git
+   git clone https://github.com/your-username/Ayurvision.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd HealthAnalytics
+   cd Ayurvision
    ```
 3. Install dependencies:
    ```bash
@@ -67,7 +72,7 @@ HealthAnalytics is an AI-powered health analysis platform that bridges modern te
 
 ## Project Structure
 ```
-HealthAnalytics
+Ayurvision
 ├── public
 ├── src
 │   ├── components
@@ -116,10 +121,8 @@ Contributions are welcome! Please follow these steps:
    ```
 5. Open a pull request.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
 ## Contact
-For any queries or support, please contact us at `support@healthanalytics.com`.
+For any queries or support, please contact us at `support@ayurvision.com`.
