@@ -1,9 +1,9 @@
-## **Team Name**: Checkmate
+# **Team Name**: Checkmate
 
 **Team Members**:
 - Happy Lakhotia, Yash Agarwal , Ujjwal Rai , Krishna Kant Kumar , Ankit Chaurasiya
 
-# Ayurvision
+#              Ayurvision
 
 ## Overview
 Ayurvision is an AI-powered health analysis platform that bridges modern technology with traditional Ayurvedic wisdom. This repository provides a complete workflow for:
